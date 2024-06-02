@@ -14,3 +14,6 @@ La guía de usuario con todo lo básico del juego [Link](https://docs.google.com
 ## Ejecutables
 [Windows](https://drive.google.com/file/d/1I8apO7LL3nbFzChuZyOtP09P8feMK6D4/view?usp=drive_link)
 [Linux](https://drive.google.com/file/d/110dKmMdoPcvKqXYE88LMlQ7NLsK7umco/view?usp=drive_link)
+
+## Tik Tok
+He tenido que realizar un tiktok para promocionar el juego [TikTok](https://www.tiktok.com/@squirrelfrontiersabp4/video/7375982855815531808)
